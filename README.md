@@ -1,2 +1,3 @@
 # Educatieve-games-programmeren
-Bboby Korver 1683896
+Bobby Korver 1683896
+In EGP2 staan de bestanden voor het 2e deel van het vak
